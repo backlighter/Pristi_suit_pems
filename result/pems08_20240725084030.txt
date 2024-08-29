@@ -1,0 +1,7 @@
+miss_rate: 0.700000
+Final RMSE: 23.021262
+Final MAE: 13.458178
+Final MAPE: 0.084113
+Final before MAPE: 8.411307
+Final after MAPE: 8.411307
+Testing time: 17.702069

@@ -1,0 +1,8 @@
+miss_rate: 0.700000
+Final CRPS: 1.917005
+Final RMSE: 508.876116
+Final MAE: 403.830409
+Final MAPE: 7.067726
+Final before MAPE: 706.772583
+Final after MAPE: 706.772583
+Testing time: 10.787136
